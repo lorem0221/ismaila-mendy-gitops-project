@@ -1,0 +1,13 @@
+image:
+  repository: ismaila-mendy-app
+  tag: local
+  pullPolicy: IfNotPresent
+
+namespace: ismaila-mendy-ns
+
+replicaCount: 1
+
+service:
+  type: ClusterIP
+  port: 80
+  targetPort: 5000

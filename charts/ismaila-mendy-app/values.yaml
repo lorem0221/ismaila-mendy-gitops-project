@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/lorem0221/ismaila-mendy-app
-  tag: "2d2d73acee643622a9b46758d5b49cd9d736dd30"
+  tag: "d624a652c169743df6b5582dc9979e0d622ff72d"
   pullPolicy: IfNotPresent
 
 namespace: ismaila-mendy-ns
